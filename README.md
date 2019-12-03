@@ -11,27 +11,30 @@
 # Make me a heading size 1
 ### Make me a heading size 3
 
-Put a line BELOW me!
+<ins>Put a line BELOW me!</ins>
 
 
 
 Put a line ABOVE me!
 
-Make
-these
-words
-into
-an
-unordered
-list
-
+<ul>
+<li>Make</li>
+<li>these</li>
+<li>words</li>
+<li>into</li>
+<li>an</li>
+<li>unordered</li>
+<li>list</li>
+<ul>
 I want this to be a block of text
+
 that takes up three lines but on
+
 the preview it looks like one line
 
-Make me bold
+**Make me bold**
 
-Make me italicized
+_Make me italicized_
 
 Turn this entire line of text into a link that goes to hstat.org
 
